@@ -1,5 +1,5 @@
 # batpayreward.github.io
-![image](https://drive.google.com/file/d/1sWmBiF-ppoZubLwbk_i1aBi7d4e9GkBx/view?usp=sharing)
+![image](https://github.com/batpayrewards/batpayrewards.github.io/blob/master/mainBatPayLogo.png)
 BatPay is a small startup for converting BAT tokes to money.
 we offer bank transfer, paytm, paypal.
 brave(bat) is the best way to make money. 
