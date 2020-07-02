@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://github.com/batpayrewards/batpayrewards.github.io/blob/master/mainBatPayLogo.png" width="256" title="Github Logo">
 </p>
+<h3>
 BatPay is a small startup for converting BAT tokes to money.
 we offer bank transfer, paytm, paypal.
 brave(bat) is the best way to make money. 
 inorder to use this web page you have to install BatPay(developing phase) app.
+</h3>
