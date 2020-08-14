@@ -4,6 +4,6 @@
 </p>
 <h3>
 BatPay is a small startup for converting BAT tokes to money.
-we offer bank transfer, paytm, paypal.
+we offer bank transfer, paytm, paypal.<br>
 brave(bat) is the best way to make money. 
 </h3>
