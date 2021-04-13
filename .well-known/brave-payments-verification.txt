@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: batpayrewards.github.io
-Token: 1209cffd40f5037514e75b1dff014465122201690f6b2788cbe6ba6ec2717170
+Token: d7379a3e646817473970966f0085cdd4a7bb0b5d90dbb20cf80ee0854c96112d
